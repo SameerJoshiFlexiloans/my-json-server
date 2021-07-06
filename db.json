@@ -1,7 +1,4 @@
 {
 "users":[
-    {"firstname":"Sameer","lastname":"Joshi","mobile":9421509117,"city":"Mumbai"},
-    {"firstname":"Tanmay","lastname":"Joshi","mobile":9922463919,"city":"Aurangabad"},
-    {"firstname":"Rajesh","lastname":"Jadhav","mobile":1234567890,"city":"Aurangabad"}
-]
+    {"name":"Sameer","id":1234}
 }
